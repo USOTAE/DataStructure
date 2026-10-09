@@ -1,0 +1,77 @@
+# ============================================================
+# Visual Studio C++ 项目 .gitignore
+# ============================================================
+
+# Visual Studio IDE 元数据
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# 用户级工程文件
+*.vcxproj.user
+*.vcxproj.filters.user
+
+# 构建输出目录
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+[Rr]eleasePublic/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# 编译产物
+*.obj
+*.iobj
+*.exe
+*.ilk
+*.lib
+*.exp
+*.pdb
+*.ipdb
+*.idb
+
+# 预编译头
+*.pch
+*.ipch
+*.iwb
+
+# 临时/增量构建文件
+*.tlog
+*.cache
+*.lastbuildstate
+*.recipe
+*.unsuccessfulbuild
+*.dt.module.json
+*.dt.module.json.command
+*.dt.d.json
+
+# 性能分析
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.diagsession
+*.heapsnapshot
+
+# 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# 编辑器临时/备份
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.orig
