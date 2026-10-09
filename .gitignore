@@ -111,3 +111,8 @@ $RECYCLE.BIN/
 *.bak
 *.tmp
 *.orig
+
+# VS Code / Trae Code 工作区配置（个人编辑器偏好）
+# 如需共享 launch.json/tasks.json/c_cpp_properties.json，
+# 删除下面这行并改为按文件忽略：.vscode/settings.json 等
+.vscode/
