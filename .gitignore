@@ -1,20 +1,29 @@
 # ============================================================
 # Visual Studio C++ 项目 .gitignore
+# 适用于 DataStructure（MSVC v145 / C++20）解决方案
 # ============================================================
 
+# ------------------------------
 # Visual Studio IDE 元数据
+# ------------------------------
 .vs/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 *.userprefs
+monodroid/
+monotouch/
 
-# 用户级工程文件
+# ------------------------------
+# 解决方案与项目用户文件
+# ------------------------------
 *.vcxproj.user
 *.vcxproj.filters.user
 
-# 构建输出目录
+# ------------------------------
+# 构建输出目录（Debug / Release）
+# ------------------------------
 x64/
 x86/
 [Dd]ebug/
@@ -27,7 +36,10 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# ------------------------------
 # 编译产物
+# ------------------------------
+# 目标文件、可执行文件
 *.obj
 *.iobj
 *.exe
@@ -43,7 +55,7 @@ bld/
 *.ipch
 *.iwb
 
-# 临时/增量构建文件
+# 临时文件
 *.tlog
 *.cache
 *.lastbuildstate
@@ -53,7 +65,9 @@ bld/
 *.dt.module.json.command
 *.dt.d.json
 
-# 性能分析
+# ------------------------------
+# 性能分析 / 诊断
+# ------------------------------
 *.psess
 *.vsp
 *.vspx
@@ -61,12 +75,34 @@ bld/
 *.diagsession
 *.heapsnapshot
 
-# 系统文件
+# ------------------------------
+# TFS / 版本控制元数据
+# ------------------------------
+*.vspscc
+*.vssscc
+*.psess
+
+# ------------------------------
+# NuGet（如后续引入包管理）
+# ------------------------------
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# ------------------------------
+# 其他系统/编辑器文件
+# ------------------------------
+# Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSSharedFileList
 
 # 编辑器临时/备份
 *.swp
