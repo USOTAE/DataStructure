@@ -116,3 +116,7 @@ $RECYCLE.BIN/
 # 如需共享 launch.json/tasks.json/c_cpp_properties.json，
 # 删除下面这行并改为按文件忽略：.vscode/settings.json 等
 .vscode/
+
+# Obsidian笔记需要的本地图片-先不上传
+*.png
+*.jpg

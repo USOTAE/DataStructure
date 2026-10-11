@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World" << endl;
+	int a = 10;
+	int c = a + 20;
+
+	printf("%d-%d", a, c);
 	return 0;
 }

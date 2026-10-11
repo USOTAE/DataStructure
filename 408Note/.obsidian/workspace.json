@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "61cbe1f0093e4b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ea796b37fe2684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d887f8ea0303cf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:D:/Personal/AI生成-408相关内容/整型数据-无符号数与有符号数.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "整型数据-无符号数与有符号数"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39b599177f8e786b",
+    "type": "split",
+    "children": [
+      {
+        "id": "687cb3b084c2d108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27648a391101d93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "37c13a12d81eb28f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8c5b88dc3e74f72c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8d4c1c836893c225",
+    "type": "split",
+    "children": [
+      {
+        "id": "896de105c3188b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6b060de0ef241b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "c6fde7ab4d1ecb96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "791391cdd07a8851",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ebfaa9c2d3d213f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1840723d05d6ecce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d887f8ea0303cf4e",
+  "lastOpenFiles": [
+    "file:D:/Personal/AI生成-408相关内容/整型数据-无符号数与有符号数.md",
+    "C&C++.md",
+    "file:D:/Personal/AI生成-408相关内容/什么是程序-冯诺依曼体系结构.md",
+    "file:D:/Personal/AI生成-408相关内容/算法举例-素数判断与散列表.md",
+    "file:D:/Personal/AI生成-408相关内容/常量和变量.md",
+    "file:D:/Personal/数学/.workbuddy/memory/MEMORY.md",
+    "Photo",
+    "Photo/Pasted image 20261010195517.png",
+    "欢迎.md"
+  ]
+}
