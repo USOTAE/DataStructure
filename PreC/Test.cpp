@@ -4,9 +4,13 @@ using namespace std;
 
 int main()
 {
-	int a = 10;
-	int c = a + 20;
-
-	printf("%d-%d", a, c);
-	return 0;
+	int x = 9, y = 9;
+	for (int i = 1;i <= x;i++)
+	{
+		for (int j = 1;j <= i;j++)
+		{
+			printf("%d*%d=%d ", j, i,j*i);
+		}
+		printf("\n");
+	}
 }
